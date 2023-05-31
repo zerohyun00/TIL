@@ -79,4 +79,4 @@ https://github.com/zerohyun00/TIL.git
 
 이미지는 '!'를 링크 앞에 붙여 생성할 수 있다.
 
-![이미지 예시](./img/MarkDown.png)
+![이미지 예시](./TIL/img/MarkDown.png)
